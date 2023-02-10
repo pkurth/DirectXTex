@@ -37,3 +37,5 @@ x64
 /wiki
 /out
 /CMakeUserPresets.json
+DirectXTex.vcxproj
+DirectXTex.vcxproj.filters
