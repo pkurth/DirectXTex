@@ -8,6 +8,8 @@ project "DirectXTex"
 		"MultiProcessorCompile"
 	}
 
+    openmp "On"
+
 	targetdir ("../../bin/" .. outputdir)
 	objdir ("../../bin_int/" .. outputdir .. "/%{prj.name}")
 
